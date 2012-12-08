@@ -1,0 +1,24 @@
+# Ignore any .class files
+*.class
+
+# ignore eclipse files
+*.classpath
+*.project
+.settings/
+
+# Ignore any .zip files (Usually the folder zipped after completion or resources)
+*.zip
+
+# Ignore test files
+test.java
+*.dat
+*.txt
+
+# Ignore bin files
+bin/
+*.o
+*.out
+qmc
+
+# ignore vim files
+.vim
