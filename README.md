@@ -1,14 +1,12 @@
-Minimize Boolean Algebra Function - Quine-McCluskey algorithm implementation.
+Quine-McCluskey algorithm implementation
 =====                                                                          
        
 Compiling
 ---------
 * libboost_program_options is required.
-Clone this project and:
-```
-cd ./quine-mccluskey
-make
-```
+* Clone this project.
+* ```cd ./quine-mccluskey```
+* ```make```
 
 Manual
 ---------
